@@ -80,7 +80,7 @@ My goal is to become a **professional Full-Stack Developer** by building real-wo
 **GitHub:** [shumiewerkneh](https://github.com/specshumiewerkneh)-spec
 
 **Email:** [shumiewerkneh@gmail.com](mailto:shumiewerkneh@gmail.com)
-
+**linkedin:**www.linkedin.com/in/werkneh-shumie-277b043ba
 ---
 
 ### ⭐ Thanks for visiting my profile!
