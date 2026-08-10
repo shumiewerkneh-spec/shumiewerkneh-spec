@@ -58,15 +58,13 @@ Created a professional responsive portfolio website to showcase my skills, proje
 ---
 
 ## 📚 Currently Learning
-
-* JavaScript
 * DOM Manipulation
 * Fetch API
 * Promises & Async/Await
 * React
 * Backend Development
 * Database Fundamentals
-
+* Figma
 ---
 
 ## 🎯 Career Goal
