@@ -76,8 +76,11 @@ My goal is to become a **professional Full-Stack Developer** by building real-wo
 ## 📫 Connect With Me
 
 **GitHub:** [shumiewerkneh](https://github.com/specshumiewerkneh)-spec
+
 **live demo*[https://werkneh-portfolio.netlify.app/]
+
 **Email:** [shumiewerkneh@gmail.com](mailto:shumiewerkneh@gmail.com)
+
 **linkedin:**www.linkedin.com/in/werkneh-shumie-277b043ba
 ---
 
